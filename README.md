@@ -1,7 +1,14 @@
-ic2stuff
+IC2Stuff
 =============
 
-IC2Stuff 1.0.0a
+1.1.0a
+* Added Laser Cutter
+* Added Heat Gun
+* Added Energy Mallet
+* Industrial Workbench now properly checks for sub item types
+* Industrial Workbench now accepts power and charges tools in tool slots
+
+1.0.0a
 
 * Added Industrial Workbench
 * Added basic NEI support
@@ -11,8 +18,6 @@ IC2Stuff 1.0.0a
 Compatibility
 =============
 This version of ic2stuff is for Forge 9.11.0 / MC 1.6.4 and IC2 version 2 (experimental).
-
-I've tested with industrialcraft-2_2.0.282-experimental, but it may work with other versions.
 
 
 
