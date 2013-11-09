@@ -5,8 +5,10 @@ IC2Stuff
 * Added Laser Cutter
 * Added Heat Gun
 * Added Energy Mallet
+* Added many configuration settings
 * Industrial Workbench now properly checks for sub item types
 * Industrial Workbench now accepts power and charges tools in tool slots
+* No API are included in the mod archive starting with this version
 
 1.0.0a
 
