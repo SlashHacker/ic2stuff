@@ -1,5 +1,11 @@
 IC2Stuff
 =============
+1.2.0a
+* Added Seed Storage Unit
+* Industrial Workbench now only consumes EU when charging items
+* Added more configuration file options
+* Fixed issue with certain icons not loading properly
+* Fixed a duplication bug when stacks combine on double-click
 
 1.1.0a
 * Added Laser Cutter
