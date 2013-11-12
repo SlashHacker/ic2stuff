@@ -1,5 +1,9 @@
 IC2Stuff
 =============
+
+1.3.0a
+* Added Lava Battery
+
 1.2.0a
 * Added Seed Storage Unit
 * Industrial Workbench now only consumes EU when charging items
