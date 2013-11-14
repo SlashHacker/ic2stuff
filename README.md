@@ -1,8 +1,16 @@
 IC2Stuff
 =============
-
+1.4.0
+* Added Sawmill
+* Rewrote the back-end code for the Seed Storage Unit
+* Seed Storage Unit and Sawmill now support Hoppers
+* Seed Storage Unit will only allow Hoppers to pull seed 
+	bags out that have been fully scanned.
+	
 1.3.0a
 * Added Lava Battery
+* Fixed a bug that could cause the Industrial Workbench to crash when
+	the output slot was clicked.
 
 1.2.0a
 * Added Seed Storage Unit
