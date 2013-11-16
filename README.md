@@ -1,5 +1,12 @@
 IC2Stuff
 =============
+
+1.5.0
+* Added Electric Assembler
+* Tools now show energy levels on icons
+* Blocks now have basic buildcraft/hopper support
+* Machines events reworked to reduce lag
+
 1.4.0
 * Added Sawmill
 * Rewrote the back-end code for the Seed Storage Unit
