@@ -1,6 +1,14 @@
 IC2Stuff
 =============
 
+1.6.0
+* Expanded Industrial Workbench inventory slots to 18
+* Fix many duplication and potential item loss bugs
+* Industrial Workbench and Electric Assembler should now
+	correctly handle most all tools used in crafting.
+* Added entity update throttling to blocks to reduce the
+	processing time consumed by each.
+
 1.5.0
 * Added Electric Assembler
 * Tools now show energy levels on icons
