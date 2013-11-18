@@ -1,5 +1,7 @@
 IC2Stuff
 =============
+1.7.0
+* Added Crystal Memory support for the Industrial Workbench
 
 1.6.0
 * Expanded Industrial Workbench inventory slots to 18
