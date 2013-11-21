@@ -1,5 +1,13 @@
 IC2Stuff
 =============
+
+1.8.0
+* Full NEI support
+* Seed Storage Unit now displays scan progress
+* Removed Sliding Door experimental block to prevent id conflict
+* Fixed multiple bugs with crystal memory
+* Fixed duplication bug with the workbench
+
 1.7.0
 * Added Crystal Memory support for the Industrial Workbench
 
