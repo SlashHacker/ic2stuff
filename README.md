@@ -1,6 +1,14 @@
 IC2Stuff
 =============
 
+1.9.12
+* Electric Engine added, allows a variable amount of EU to be converted to MJ
+* Luminator Controller added, allows WIRELESS EU transfer and control of up to 36 Luminators
+* Link Descriptor added, hold and right click on a block to link to it.
+* Range Upgrade added, increases the range of a Luminator Controller by 4 blocks per upgrade.
+* Fixed a bug in the industrial workbench that could sometimes cause items to be placed in the memory crystal slot
+* Version numbers will now reflect the build number
+
 1.8.0
 * Full NEI support
 * Seed Storage Unit now displays scan progress
