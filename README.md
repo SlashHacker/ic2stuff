@@ -1,5 +1,7 @@
 IC2Stuff
 =============
+1.9.13
+* Electric Engine's hardness value corrected to prevent accidental breakage
 
 1.9.12
 * Electric Engine added, allows a variable amount of EU to be converted to MJ
