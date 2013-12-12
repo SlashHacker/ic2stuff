@@ -3,7 +3,7 @@ IC2Stuff
 
 1.9.15
 * Fixed critical bug which caused the Lava Battery to crash server-only processes when used.
-* Other minor bug fixes
+* Other minor bug fixes.
 
 1.9.13
 * Electric Engine's hardness value corrected to prevent accidental breakage
