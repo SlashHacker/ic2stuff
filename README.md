@@ -1,5 +1,12 @@
 IC2Stuff
 =============
+1.9.17
+* Electric Engine now supports different maximum EU and conversion rates for each tier
+* Added many configuration options for the Electric Engine
+* Tweaked the engine renderer to attempt to fix rendering glitches
+* Relocked the memory crystal slot of the Industrial Workbench
+* Fixed packet handler glitch which broke some items on stand-alone servers.
+* Fixed an issue with machines that use the FlexibleSlot which could cause crashes.
 
 1.9.15
 * Fixed critical bug which caused the Lava Battery to crash server-only processes when used.
